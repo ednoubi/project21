@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>cleanimage</artifactId>
-  <packaging>war</packaging>
+  <packaging>zip</packaging>
   <name>cleanimage</name>
   <description>cleanimage.</description>
 
